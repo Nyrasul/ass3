@@ -39,6 +39,9 @@ To get the project running locally, follow these steps:
     The API will be accessible at `http://localhost:3000`.
 6.  **Use insomnia**
    ![image](https://github.com/user-attachments/assets/a04aeb44-6967-4f39-8743-e5e81b1bcb50)
+6.  **Deploy**
+![image](https://github.com/user-attachments/assets/e09c16b5-ffd9-4b3e-b3b0-ce945232c50c)
+
 
 ## API Endpoints
 
